@@ -1,0 +1,211 @@
+[
+  {
+    "id": "little-joy-box",
+    "name": "Little Joy Box",
+    "category": "Ready-made Hampers",
+    "tagline": "A Special Hamper for Little Ones",
+    "description": "A kids gifting hamper featuring chips, noodles, namkeen, chocolates, juices and a special surprise gift.",
+    "contents": [
+      {
+        "item": "Chips"
+      },
+      {
+        "item": "Noodles"
+      },
+      {
+        "item": "Namkeen"
+      },
+      {
+        "item": "Chocolates"
+      },
+      {
+        "item": "Juices"
+      },
+      {
+        "item": "Surprise gift"
+      }
+    ],
+    "customization": null,
+    "main_image": "images/promotional_posters/little_joy_box.jpeg",
+    "gallery": [
+      "images/promotional_posters/little_joy_box.jpeg"
+    ],
+    "notes": "No original camera photo supplied for this hamper.",
+    "price_display": false
+  },
+  {
+    "id": "classic-hamper",
+    "name": "The Classic Hamper",
+    "category": "Ready-made Hampers",
+    "tagline": "Thoughtful Hampers for Every Celebration",
+    "description": "A wooden-tray hamper with breakfast mix, raisins and flavoured makhana.",
+    "contents": [
+      {
+        "item": "Breakfast Mix",
+        "quantity": "250g"
+      },
+      {
+        "item": "Raisins",
+        "quantity": "250g"
+      },
+      {
+        "item": "Makhana",
+        "quantity": "100g",
+        "flavour_shown": "Cream & Onion"
+      }
+    ],
+    "customization": {
+      "field": "Makhana flavour",
+      "options": [
+        "Cream & Onion",
+        "Tangy Tomato",
+        "Peri Peri",
+        "Chat Masala",
+        "Minty Pudina"
+      ]
+    },
+    "main_image": "images/original_photos/classic.jpeg",
+    "gallery": [
+      "images/original_photos/classic.jpeg",
+      "images/promotional_posters/classic.jpeg"
+    ],
+    "price_display": false
+  },
+  {
+    "id": "snack-trio",
+    "name": "Snack Trio",
+    "category": "Ready-made Hampers",
+    "tagline": "A Delicious Trio for Healthy Snacking",
+    "description": "A three-jar gift basket with roasted cashews, breakfast mix and raisins.",
+    "contents": [
+      {
+        "item": "Roasted Cashew",
+        "quantity": "250g"
+      },
+      {
+        "item": "Breakfast Mix",
+        "quantity": "250g"
+      },
+      {
+        "item": "Raisins",
+        "quantity": "250g"
+      }
+    ],
+    "customization": null,
+    "main_image": "images/original_photos/snack_trio.jpeg",
+    "gallery": [
+      "images/original_photos/snack_trio.jpeg",
+      "images/promotional_posters/snack_trio.jpeg"
+    ],
+    "price_display": false
+  },
+  {
+    "id": "festive-treats-hamper",
+    "name": "Festive Treats Hamper",
+    "category": "Ready-made Hampers",
+    "tagline": "A Perfect Mix of Munching Snacks, Chocolates & More",
+    "description": "A gift hamper with munching snacks, chocolates and treats, cookies and bites, and a refreshing beverage.",
+    "contents": [
+      {
+        "item": "Munching snacks"
+      },
+      {
+        "item": "Chocolates & treats"
+      },
+      {
+        "item": "Cookies & bites"
+      },
+      {
+        "item": "Refreshing beverage"
+      }
+    ],
+    "customization": null,
+    "main_image": "images/promotional_posters/festive_treats.jpeg",
+    "gallery": [
+      "images/promotional_posters/festive_treats.jpeg",
+      "images/promotional_posters/festive_treats_additional.jpeg"
+    ],
+    "notes": "No original camera photo supplied; two promotional designs supplied.",
+    "price_display": false
+  },
+  {
+    "id": "premium-treats-hamper",
+    "name": "Premium Treats Hamper",
+    "category": "Ready-made Hampers",
+    "tagline": "A Perfect Blend of Health, Taste & Festive Joy",
+    "description": "A premium gift basket featuring roasted nuts, flavoured makhana and a chocolate or cookie treat.",
+    "contents": [
+      {
+        "item": "Roasted Cashew",
+        "quantity": "250g"
+      },
+      {
+        "item": "Roasted Almonds",
+        "quantity": "250g"
+      },
+      {
+        "item": "Makhana",
+        "quantity": "100g × 3",
+        "note": "Choose any 3 flavours"
+      },
+      {
+        "item": "Dark Fantasy / Chocolate",
+        "quantity": "1 pack"
+      }
+    ],
+    "customization": {
+      "field": "Makhana flavours",
+      "selection_count": 3,
+      "options": [
+        "Cream & Onion",
+        "Tangy Tomato",
+        "Peri Peri",
+        "Chat Masala",
+        "Minty Pudina"
+      ]
+    },
+    "main_image": "images/original_photos/premium_front.jpeg",
+    "gallery": [
+      "images/original_photos/premium_front.jpeg",
+      "images/original_photos/premium_arch.jpeg",
+      "images/promotional_posters/premium_treats.jpeg"
+    ],
+    "notes": "Both supplied camera photographs identified by owner as Premium Treats Hamper. Visible jar arrangements vary; the listed contents follow the promotional poster, not an assertion that each photographed variant contains every listed item.",
+    "price_display": false
+  },
+  {
+    "id": "customized-hampers",
+    "name": "Customized Hampers",
+    "category": "Customized Hampers",
+    "tagline": "Made on Special Request",
+    "description": "A customised hamper, created on special request. The photographed example has three decorated potlis and three jars of flavoured makhana.",
+    "contents": [],
+    "example_visible_items": [
+      {
+        "item": "Decorative potlis",
+        "count": 3,
+        "note": "Contents not specified"
+      },
+      {
+        "item": "Flavoured makhana jars",
+        "count": 3,
+        "visible_flavours": [
+          "Cream & Onion",
+          "Tangy Tomato",
+          "Classic Salted"
+        ]
+      }
+    ],
+    "customization": {
+      "field": "Custom hamper request",
+      "note": "Contents are decided on special request; no fixed contents are advertised."
+    },
+    "main_image": "images/original_photos/custom_potli.jpeg",
+    "gallery": [
+      "images/original_photos/custom_potli.jpeg",
+      "images/promotional_posters/custom_potli.jpeg"
+    ],
+    "notes": "Example only; do not present potlis or jar flavours as mandatory inclusions in all customized hampers.",
+    "price_display": false
+  }
+]
